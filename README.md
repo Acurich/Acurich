@@ -1,31 +1,73 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+<!-- ===================== HEADER ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:ff2a6d,100:05d9e8&height=220&section=header&text=ACURICH&fontSize=80&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=wake%20up%2C%20samurai.%20we%20have%20code%20to%20write.&descAlignY=60&descSize=18" width="100%" alt="header"/>
+</p>
 
-<div id="badges" align="center">
-  <img src="https://komarev.com/ghpvc/?username=Acurich&style=flat-square&color=blue" alt=""/>
+<p align="center">
+  <a href="https://github.com/Acurich">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FF2A6D&center=true&vCenter=true&width=650&lines=%3E+building+AI+agents+%26+automations;%3E+n8n+workflows+that+do+the+boring+stuff;%3E+plugging+LLMs+into+real+business+tasks;%3E+C%2B%2B+%7C+Python+%7C+Go+%7C+C%23" alt="Typing SVG"/>
+  </a>
+</p>
 
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Acurich&label=PROFILE%20VIEWS&color=ff2a6d&style=for-the-badge" alt="profile views"/>
+  <img src="https://img.shields.io/badge/FOCUS-AI%20%26%20AUTOMATION-05d9e8?style=for-the-badge&labelColor=0d1117" alt="focus"/>
+  <img src="https://img.shields.io/badge/LOCATION-WORLDWIDE-f9f002?style=for-the-badge&labelColor=0d1117" alt="location"/>
+</p>
 
+<!-- ===================== ABOUT ===================== -->
+## `> whoami`
 
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original-wordmark.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
+```cpp
+#include <iostream>
 
----
+struct Acurich {
+    std::string location   = "Worldwide";
+    std::string role       = "AI automation developer";
+    std::string daily_work = "n8n workflows · AI agents · LLM integrations";
+    std::string main_stack = "C++ · Python · Go · C#";
+    std::string also_use   = "Java · TypeScript · React · Node.js · Django";
+    std::string motto      = "If it can be automated — it will be.";
+};
+```
 
-### :fire: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Acurich&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- ===================== SKILLS ===================== -->
+## `> stack --list`
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,c,cs,py,go,java,js,ts&theme=dark" alt="languages"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,django,mysql,androidstudio,git&theme=dark" alt="tools"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/n8n-0d1117?style=for-the-badge&logo=n8n&logoColor=ff2a6d" alt="n8n"/>
+  <img src="https://img.shields.io/badge/OpenAI-0d1117?style=for-the-badge&logo=openai&logoColor=05d9e8" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/Claude-0d1117?style=for-the-badge&logo=claude&logoColor=f9f002" alt="Claude"/>
+  <img src="https://img.shields.io/badge/AI%20Agents-0d1117?style=for-the-badge&logo=robotframework&logoColor=ff2a6d" alt="AI Agents"/>
+</p>
+
+<!-- ===================== STATS ===================== -->
+## `> stats --verbose`
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Acurich&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff2a6d&icon_color=05d9e8&text_color=c9d1d9&ring_color=ff2a6d" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Acurich&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff2a6d&text_color=c9d1d9" alt="Top languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Acurich&theme=radical&hide_border=true&background=0d1117&ring=ff2a6d&fire=ff2a6d&currStreakLabel=05d9e8&sideLabels=05d9e8&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" alt="GitHub streak"/>
+</p>
+
+<!-- ===================== CONTACTS ===================== -->
+## `> connect`
+
+<p align="center">
+  <a href="https://t.me/acurich"><img src="https://img.shields.io/badge/Telegram-@acurich-0d1117?style=for-the-badge&logo=telegram&logoColor=05d9e8&labelColor=0d1117&color=05d9e8" alt="Telegram"/></a>
+  <a href="mailto:acurich123@gmail.com"><img src="https://img.shields.io/badge/Email-acurich123@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=ff2a6d&labelColor=0d1117&color=ff2a6d" alt="Email"/></a>
+</p>
+
+<!-- ===================== FOOTER ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:05d9e8,55:ff2a6d,100:0d1117&height=120&section=footer" width="100%" alt="footer"/>
+</p>
