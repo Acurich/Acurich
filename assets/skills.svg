@@ -1,0 +1,154 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 254" width="900" height="254" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace">
+  <defs>
+    <linearGradient id="frame" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ff2a6d"/><stop offset="1" stop-color="#05d9e8"/></linearGradient>
+    <linearGradient id="sweep" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".18"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+    <style>
+      .lbl { fill:#c9d1d9; font-size:13px; font-weight:700; letter-spacing:2px; }
+      .pct { font-size:13px; font-weight:700; }
+      .seg { opacity:0; animation: on .25s ease-out forwards; }
+      .blink { animation: blink 1s steps(1) infinite; }
+      .sw { animation: sw 5s ease-in-out infinite; }
+      @keyframes on { to { opacity:1; } }
+      @keyframes blink { 50% { opacity:0; } }
+      @keyframes sw { 0%,60% { transform:translateX(-200px); } 100% { transform:translateX(1000px); } }
+    </style>
+  </defs>
+  <rect x="1" y="1" width="898" height="252" rx="14" fill="#0d1117" stroke="url(#frame)" stroke-width="1.5" stroke-opacity=".7"/>
+  <text x="40" y="38" fill="#05d9e8" font-size="12" letter-spacing="3">// SKILL MATRIX</text>
+  <rect x="788" y="29" width="9" height="9" fill="#f9f002" class="blink"/>
+  <text x="860" y="38" fill="#8b949e" font-size="11" letter-spacing="2" text-anchor="end">LV.MAX</text>
+  <path d="M40 48 H860" stroke="#1f2733"/>
+  <text x="40" y="78" class="lbl">n8n</text>
+  <text x="410" y="78" class="pct" fill="#ff2a6d" text-anchor="end">95%</text>
+  <rect x="40" y="88" width="14" height="14" fill="#ff2a6d" class="seg" style="animation-delay:0.30s"/>
+  <rect x="58" y="88" width="14" height="14" fill="#ff2a6d" class="seg" style="animation-delay:0.34s"/>
+  <rect x="76" y="88" width="14" height="14" fill="#ff2a6d" class="seg" style="animation-delay:0.38s"/>
+  <rect x="94" y="88" width="14" height="14" fill="#ff2a6d" class="seg" style="animation-delay:0.42s"/>
+  <rect x="112" y="88" width="14" height="14" fill="#ff2a6d" class="seg" style="animation-delay:0.46s"/>
+  <rect x="130" y="88" width="14" height="14" fill="#ff2a6d" class="seg" style="animation-delay:0.50s"/>
+  <rect x="148" y="88" width="14" height="14" fill="#ff2a6d" class="seg" style="animation-delay:0.54s"/>
+  <rect x="166" y="88" width="14" height="14" fill="#ff2a6d" class="seg" style="animation-delay:0.58s"/>
+  <rect x="184" y="88" width="14" height="14" fill="#ff2a6d" class="seg" style="animation-delay:0.62s"/>
+  <rect x="202" y="88" width="14" height="14" fill="#ff2a6d" class="seg" style="animation-delay:0.66s"/>
+  <rect x="220" y="88" width="14" height="14" fill="#ff2a6d" class="seg" style="animation-delay:0.70s"/>
+  <rect x="238" y="88" width="14" height="14" fill="#ff2a6d" class="seg" style="animation-delay:0.74s"/>
+  <rect x="256" y="88" width="14" height="14" fill="#ff2a6d" class="seg" style="animation-delay:0.78s"/>
+  <rect x="274" y="88" width="14" height="14" fill="#ff2a6d" class="seg" style="animation-delay:0.82s"/>
+  <rect x="292" y="88" width="14" height="14" fill="#ff2a6d" class="seg" style="animation-delay:0.86s"/>
+  <rect x="310" y="88" width="14" height="14" fill="#ff2a6d" class="seg" style="animation-delay:0.90s"/>
+  <rect x="328" y="88" width="14" height="14" fill="#ff2a6d" class="seg" style="animation-delay:0.94s"/>
+  <rect x="346" y="88" width="14" height="14" fill="#ff2a6d" class="seg" style="animation-delay:0.98s"/>
+  <rect x="364" y="88" width="14" height="14" fill="#ff2a6d" class="seg" style="animation-delay:1.02s"/>
+  <rect x="382" y="88" width="14" height="14" fill="#1a2230"/>
+  <text x="470" y="78" class="lbl">AI AGENTS</text>
+  <text x="840" y="78" class="pct" fill="#ff2a6d" text-anchor="end">90%</text>
+  <rect x="470" y="88" width="14" height="14" fill="#ff2a6d" class="seg" style="animation-delay:0.42s"/>
+  <rect x="488" y="88" width="14" height="14" fill="#ff2a6d" class="seg" style="animation-delay:0.46s"/>
+  <rect x="506" y="88" width="14" height="14" fill="#ff2a6d" class="seg" style="animation-delay:0.50s"/>
+  <rect x="524" y="88" width="14" height="14" fill="#ff2a6d" class="seg" style="animation-delay:0.54s"/>
+  <rect x="542" y="88" width="14" height="14" fill="#ff2a6d" class="seg" style="animation-delay:0.58s"/>
+  <rect x="560" y="88" width="14" height="14" fill="#ff2a6d" class="seg" style="animation-delay:0.62s"/>
+  <rect x="578" y="88" width="14" height="14" fill="#ff2a6d" class="seg" style="animation-delay:0.66s"/>
+  <rect x="596" y="88" width="14" height="14" fill="#ff2a6d" class="seg" style="animation-delay:0.70s"/>
+  <rect x="614" y="88" width="14" height="14" fill="#ff2a6d" class="seg" style="animation-delay:0.74s"/>
+  <rect x="632" y="88" width="14" height="14" fill="#ff2a6d" class="seg" style="animation-delay:0.78s"/>
+  <rect x="650" y="88" width="14" height="14" fill="#ff2a6d" class="seg" style="animation-delay:0.82s"/>
+  <rect x="668" y="88" width="14" height="14" fill="#ff2a6d" class="seg" style="animation-delay:0.86s"/>
+  <rect x="686" y="88" width="14" height="14" fill="#ff2a6d" class="seg" style="animation-delay:0.90s"/>
+  <rect x="704" y="88" width="14" height="14" fill="#ff2a6d" class="seg" style="animation-delay:0.94s"/>
+  <rect x="722" y="88" width="14" height="14" fill="#ff2a6d" class="seg" style="animation-delay:0.98s"/>
+  <rect x="740" y="88" width="14" height="14" fill="#ff2a6d" class="seg" style="animation-delay:1.02s"/>
+  <rect x="758" y="88" width="14" height="14" fill="#ff2a6d" class="seg" style="animation-delay:1.06s"/>
+  <rect x="776" y="88" width="14" height="14" fill="#ff2a6d" class="seg" style="animation-delay:1.10s"/>
+  <rect x="794" y="88" width="14" height="14" fill="#1a2230"/>
+  <rect x="812" y="88" width="14" height="14" fill="#1a2230"/>
+  <text x="40" y="136" class="lbl">PYTHON</text>
+  <text x="410" y="136" class="pct" fill="#05d9e8" text-anchor="end">85%</text>
+  <rect x="40" y="146" width="14" height="14" fill="#05d9e8" class="seg" style="animation-delay:0.54s"/>
+  <rect x="58" y="146" width="14" height="14" fill="#05d9e8" class="seg" style="animation-delay:0.58s"/>
+  <rect x="76" y="146" width="14" height="14" fill="#05d9e8" class="seg" style="animation-delay:0.62s"/>
+  <rect x="94" y="146" width="14" height="14" fill="#05d9e8" class="seg" style="animation-delay:0.66s"/>
+  <rect x="112" y="146" width="14" height="14" fill="#05d9e8" class="seg" style="animation-delay:0.70s"/>
+  <rect x="130" y="146" width="14" height="14" fill="#05d9e8" class="seg" style="animation-delay:0.74s"/>
+  <rect x="148" y="146" width="14" height="14" fill="#05d9e8" class="seg" style="animation-delay:0.78s"/>
+  <rect x="166" y="146" width="14" height="14" fill="#05d9e8" class="seg" style="animation-delay:0.82s"/>
+  <rect x="184" y="146" width="14" height="14" fill="#05d9e8" class="seg" style="animation-delay:0.86s"/>
+  <rect x="202" y="146" width="14" height="14" fill="#05d9e8" class="seg" style="animation-delay:0.90s"/>
+  <rect x="220" y="146" width="14" height="14" fill="#05d9e8" class="seg" style="animation-delay:0.94s"/>
+  <rect x="238" y="146" width="14" height="14" fill="#05d9e8" class="seg" style="animation-delay:0.98s"/>
+  <rect x="256" y="146" width="14" height="14" fill="#05d9e8" class="seg" style="animation-delay:1.02s"/>
+  <rect x="274" y="146" width="14" height="14" fill="#05d9e8" class="seg" style="animation-delay:1.06s"/>
+  <rect x="292" y="146" width="14" height="14" fill="#05d9e8" class="seg" style="animation-delay:1.10s"/>
+  <rect x="310" y="146" width="14" height="14" fill="#05d9e8" class="seg" style="animation-delay:1.14s"/>
+  <rect x="328" y="146" width="14" height="14" fill="#05d9e8" class="seg" style="animation-delay:1.18s"/>
+  <rect x="346" y="146" width="14" height="14" fill="#1a2230"/>
+  <rect x="364" y="146" width="14" height="14" fill="#1a2230"/>
+  <rect x="382" y="146" width="14" height="14" fill="#1a2230"/>
+  <text x="470" y="136" class="lbl">C++</text>
+  <text x="840" y="136" class="pct" fill="#05d9e8" text-anchor="end">75%</text>
+  <rect x="470" y="146" width="14" height="14" fill="#05d9e8" class="seg" style="animation-delay:0.66s"/>
+  <rect x="488" y="146" width="14" height="14" fill="#05d9e8" class="seg" style="animation-delay:0.70s"/>
+  <rect x="506" y="146" width="14" height="14" fill="#05d9e8" class="seg" style="animation-delay:0.74s"/>
+  <rect x="524" y="146" width="14" height="14" fill="#05d9e8" class="seg" style="animation-delay:0.78s"/>
+  <rect x="542" y="146" width="14" height="14" fill="#05d9e8" class="seg" style="animation-delay:0.82s"/>
+  <rect x="560" y="146" width="14" height="14" fill="#05d9e8" class="seg" style="animation-delay:0.86s"/>
+  <rect x="578" y="146" width="14" height="14" fill="#05d9e8" class="seg" style="animation-delay:0.90s"/>
+  <rect x="596" y="146" width="14" height="14" fill="#05d9e8" class="seg" style="animation-delay:0.94s"/>
+  <rect x="614" y="146" width="14" height="14" fill="#05d9e8" class="seg" style="animation-delay:0.98s"/>
+  <rect x="632" y="146" width="14" height="14" fill="#05d9e8" class="seg" style="animation-delay:1.02s"/>
+  <rect x="650" y="146" width="14" height="14" fill="#05d9e8" class="seg" style="animation-delay:1.06s"/>
+  <rect x="668" y="146" width="14" height="14" fill="#05d9e8" class="seg" style="animation-delay:1.10s"/>
+  <rect x="686" y="146" width="14" height="14" fill="#05d9e8" class="seg" style="animation-delay:1.14s"/>
+  <rect x="704" y="146" width="14" height="14" fill="#05d9e8" class="seg" style="animation-delay:1.18s"/>
+  <rect x="722" y="146" width="14" height="14" fill="#05d9e8" class="seg" style="animation-delay:1.22s"/>
+  <rect x="740" y="146" width="14" height="14" fill="#1a2230"/>
+  <rect x="758" y="146" width="14" height="14" fill="#1a2230"/>
+  <rect x="776" y="146" width="14" height="14" fill="#1a2230"/>
+  <rect x="794" y="146" width="14" height="14" fill="#1a2230"/>
+  <rect x="812" y="146" width="14" height="14" fill="#1a2230"/>
+  <text x="40" y="194" class="lbl">TYPESCRIPT</text>
+  <text x="410" y="194" class="pct" fill="#f9f002" text-anchor="end">75%</text>
+  <rect x="40" y="204" width="14" height="14" fill="#f9f002" class="seg" style="animation-delay:0.78s"/>
+  <rect x="58" y="204" width="14" height="14" fill="#f9f002" class="seg" style="animation-delay:0.82s"/>
+  <rect x="76" y="204" width="14" height="14" fill="#f9f002" class="seg" style="animation-delay:0.86s"/>
+  <rect x="94" y="204" width="14" height="14" fill="#f9f002" class="seg" style="animation-delay:0.90s"/>
+  <rect x="112" y="204" width="14" height="14" fill="#f9f002" class="seg" style="animation-delay:0.94s"/>
+  <rect x="130" y="204" width="14" height="14" fill="#f9f002" class="seg" style="animation-delay:0.98s"/>
+  <rect x="148" y="204" width="14" height="14" fill="#f9f002" class="seg" style="animation-delay:1.02s"/>
+  <rect x="166" y="204" width="14" height="14" fill="#f9f002" class="seg" style="animation-delay:1.06s"/>
+  <rect x="184" y="204" width="14" height="14" fill="#f9f002" class="seg" style="animation-delay:1.10s"/>
+  <rect x="202" y="204" width="14" height="14" fill="#f9f002" class="seg" style="animation-delay:1.14s"/>
+  <rect x="220" y="204" width="14" height="14" fill="#f9f002" class="seg" style="animation-delay:1.18s"/>
+  <rect x="238" y="204" width="14" height="14" fill="#f9f002" class="seg" style="animation-delay:1.22s"/>
+  <rect x="256" y="204" width="14" height="14" fill="#f9f002" class="seg" style="animation-delay:1.26s"/>
+  <rect x="274" y="204" width="14" height="14" fill="#f9f002" class="seg" style="animation-delay:1.30s"/>
+  <rect x="292" y="204" width="14" height="14" fill="#f9f002" class="seg" style="animation-delay:1.34s"/>
+  <rect x="310" y="204" width="14" height="14" fill="#1a2230"/>
+  <rect x="328" y="204" width="14" height="14" fill="#1a2230"/>
+  <rect x="346" y="204" width="14" height="14" fill="#1a2230"/>
+  <rect x="364" y="204" width="14" height="14" fill="#1a2230"/>
+  <rect x="382" y="204" width="14" height="14" fill="#1a2230"/>
+  <text x="470" y="194" class="lbl">GO</text>
+  <text x="840" y="194" class="pct" fill="#f9f002" text-anchor="end">75%</text>
+  <rect x="470" y="204" width="14" height="14" fill="#f9f002" class="seg" style="animation-delay:0.90s"/>
+  <rect x="488" y="204" width="14" height="14" fill="#f9f002" class="seg" style="animation-delay:0.94s"/>
+  <rect x="506" y="204" width="14" height="14" fill="#f9f002" class="seg" style="animation-delay:0.98s"/>
+  <rect x="524" y="204" width="14" height="14" fill="#f9f002" class="seg" style="animation-delay:1.02s"/>
+  <rect x="542" y="204" width="14" height="14" fill="#f9f002" class="seg" style="animation-delay:1.06s"/>
+  <rect x="560" y="204" width="14" height="14" fill="#f9f002" class="seg" style="animation-delay:1.10s"/>
+  <rect x="578" y="204" width="14" height="14" fill="#f9f002" class="seg" style="animation-delay:1.14s"/>
+  <rect x="596" y="204" width="14" height="14" fill="#f9f002" class="seg" style="animation-delay:1.18s"/>
+  <rect x="614" y="204" width="14" height="14" fill="#f9f002" class="seg" style="animation-delay:1.22s"/>
+  <rect x="632" y="204" width="14" height="14" fill="#f9f002" class="seg" style="animation-delay:1.26s"/>
+  <rect x="650" y="204" width="14" height="14" fill="#f9f002" class="seg" style="animation-delay:1.30s"/>
+  <rect x="668" y="204" width="14" height="14" fill="#f9f002" class="seg" style="animation-delay:1.34s"/>
+  <rect x="686" y="204" width="14" height="14" fill="#f9f002" class="seg" style="animation-delay:1.38s"/>
+  <rect x="704" y="204" width="14" height="14" fill="#f9f002" class="seg" style="animation-delay:1.42s"/>
+  <rect x="722" y="204" width="14" height="14" fill="#f9f002" class="seg" style="animation-delay:1.46s"/>
+  <rect x="740" y="204" width="14" height="14" fill="#1a2230"/>
+  <rect x="758" y="204" width="14" height="14" fill="#1a2230"/>
+  <rect x="776" y="204" width="14" height="14" fill="#1a2230"/>
+  <rect x="794" y="204" width="14" height="14" fill="#1a2230"/>
+  <rect x="812" y="204" width="14" height="14" fill="#1a2230"/>
+  <rect x="0" y="50" width="160" height="184" fill="url(#sweep)" class="sw"/>
+</svg>
