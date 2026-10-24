@@ -42,7 +42,7 @@ struct Acurich {
 
 <p align="center">
   <img src="https://img.shields.io/badge/n8n-0d1117?style=for-the-badge&logo=n8n&logoColor=ff2a6d" alt="n8n"/>
-  <img src="https://img.shields.io/badge/OpenAI-0d1117?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMDVkOWU4IiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPHBhdGggZD0iTTEyIDJsMi40IDYuNkwyMSAxMWwtNi42IDIuNEwxMiAyMGwtMi40LTYuNkwzIDExbDYuNi0yLjR6Ii8%2BPC9zdmc%2B" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/OpenAI-0d1117?style=for-the-badge&logo=openai&logoColor=05d9e8" alt="OpenAI"/>
   <img src="https://img.shields.io/badge/Claude-0d1117?style=for-the-badge&logo=claude&logoColor=f9f002" alt="Claude"/>
   <img src="https://img.shields.io/badge/AI%20Agents-0d1117?style=for-the-badge&logo=robotframework&logoColor=ff2a6d" alt="AI Agents"/>
 </p>
@@ -51,12 +51,12 @@ struct Acurich {
 ## `> stats --verbose`
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Acurich&layout=compact&langs_count=6&hide=sage,css,html&size_weight=0.5&count_weight=0.5&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff2a6d&text_color=c9d1d9" alt="Top languages"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Acurich&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff2a6d&icon_color=05d9e8&text_color=c9d1d9&ring_color=ff2a6d" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Acurich&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff2a6d&text_color=c9d1d9" alt="Top languages"/>
 </p>
 
-<!-- 3D-календарь контрибуций: файл генерирует GitHub Action (.github/workflows/profile-3d-contrib.yml) -->
 <p align="center">
-  <img width="100%" src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D contributions"/>
+  <img src="https://streak-stats.demolab.com?user=Acurich&theme=radical&hide_border=true&background=0d1117&ring=ff2a6d&fire=ff2a6d&currStreakLabel=05d9e8&sideLabels=05d9e8&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" alt="GitHub streak"/>
 </p>
 
 <!-- ===================== CONTACTS ===================== -->
