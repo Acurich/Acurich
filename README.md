@@ -1,6 +1,6 @@
 <!-- ===================== HEADER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:ff2a6d,100:05d9e8&height=220&section=header&text=ACURICH&fontSize=80&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=wake%20up%2C%20samurai.%20we%20have%20code%20to%20write.&descAlignY=60&descSize=18" width="100%" alt="header"/>
+  <img src="assets/header.svg" width="100%" alt="ACURICH — AI automation // netrunner"/>
 </p>
 
 <p align="center">
@@ -18,18 +18,9 @@
 <!-- ===================== ABOUT ===================== -->
 ## `> whoami`
 
-```cpp
-#include <iostream>
-
-struct Acurich {
-    std::string location   = "Worldwide";
-    std::string role       = "AI automation developer";
-    std::string daily_work = "n8n workflows · AI agents · LLM integrations";
-    std::string main_stack = "C++ · Python · Go · C#";
-    std::string also_use   = "Java · TypeScript · React · Node.js · Django";
-    std::string motto      = "If it can be automated — it will be.";
-};
-```
+<p align="center">
+  <img src="assets/terminal.svg" width="100%" alt="whoami: AI automation developer · core: Python, Go, C++, C# · ai: n8n, AI agents, OpenAI, Claude · web: TypeScript, React, Node.js, Django"/>
+</p>
 
 <!-- ===================== SKILLS ===================== -->
 ## `> stack --list`
@@ -42,21 +33,29 @@ struct Acurich {
 
 <p align="center">
   <img src="https://img.shields.io/badge/n8n-0d1117?style=for-the-badge&logo=n8n&logoColor=ff2a6d" alt="n8n"/>
-  <img src="https://img.shields.io/badge/OpenAI-0d1117?style=for-the-badge&logo=openai&logoColor=05d9e8" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/OpenAI-0d1117?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMDVkOWU4IiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPHBhdGggZD0iTTEyIDJsMi40IDYuNkwyMSAxMWwtNi42IDIuNEwxMiAyMGwtMi40LTYuNkwzIDExbDYuNi0yLjR6Ii8%2BPC9zdmc%2B" alt="OpenAI"/>
   <img src="https://img.shields.io/badge/Claude-0d1117?style=for-the-badge&logo=claude&logoColor=f9f002" alt="Claude"/>
   <img src="https://img.shields.io/badge/AI%20Agents-0d1117?style=for-the-badge&logo=robotframework&logoColor=ff2a6d" alt="AI Agents"/>
 </p>
 
-<!-- ===================== STATS ===================== -->
-## `> stats --verbose`
+<!-- ===================== WHAT I BUILD ===================== -->
+## `> ls ./what-i-build`
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Acurich&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff2a6d&icon_color=05d9e8&text_color=c9d1d9&ring_color=ff2a6d" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Acurich&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff2a6d&text_color=c9d1d9" alt="Top languages"/>
+  <img src="assets/workflow.svg" width="100%" alt="AI agent workflow: trigger → AI agent (LLM, memory, tools) → CRM, messengers, data"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Acurich&theme=radical&hide_border=true&background=0d1117&ring=ff2a6d&fire=ff2a6d&currStreakLabel=05d9e8&sideLabels=05d9e8&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" alt="GitHub streak"/>
+  <b>🤖 AI agents</b> that do routine work end-to-end &nbsp;·&nbsp;
+  <b>⚙️ n8n workflows</b> that glue services together &nbsp;·&nbsp;
+  <b>🧠 LLMs</b> inside real business processes
+</p>
+
+<!-- ===================== SKILL MATRIX ===================== -->
+## `> skills --matrix`
+
+<p align="center">
+  <img src="assets/skills.svg" width="100%" alt="Skill matrix: n8n, AI agents, Python, C++, TypeScript, Go"/>
 </p>
 
 <!-- ===================== CONTACTS ===================== -->
@@ -67,7 +66,33 @@ struct Acurich {
   <a href="mailto:acurich123@gmail.com"><img src="https://img.shields.io/badge/Email-acurich123@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=ff2a6d&labelColor=0d1117&color=ff2a6d" alt="Email"/></a>
 </p>
 
+<!-- ===================== EASTER EGG ===================== -->
+<details>
+<summary><b>⚠️ breach protocol</b></summary>
+
+```text
+1C  BD  55  E9  1C
+55  1C  E9  BD  7A
+BD  7A  1C  55  E9
+
+> uploading daemon... ACCESS GRANTED
+> scanning visitor...
+
+  status ........ curious
+  threat level .. harmless
+  coffee ........ CRITICALLY LOW
+
+> deploying AI agent to fetch coffee... FAILED
+  reason: agent built an n8n workflow to order coffee,
+          then automated drinking it. 0 coffee left.
+
+you read till the end, choom.
+achievement unlocked: 🏆 Netrunner of the README
+```
+
+</details>
+
 <!-- ===================== FOOTER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:05d9e8,55:ff2a6d,100:0d1117&height=120&section=footer" width="100%" alt="footer"/>
+  <img src="assets/footer.svg" width="100%" alt="Night City skyline"/>
 </p>
