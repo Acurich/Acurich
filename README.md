@@ -42,7 +42,7 @@ struct Acurich {
 
 <p align="center">
   <img src="https://img.shields.io/badge/n8n-0d1117?style=for-the-badge&logo=n8n&logoColor=ff2a6d" alt="n8n"/>
-  <img src="https://img.shields.io/badge/OpenAI-0d1117?style=for-the-badge&logo=openai&logoColor=05d9e8" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/OpenAI-0d1117?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMDVkOWU4IiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPHBhdGggZD0iTTEyIDJsMi40IDYuNkwyMSAxMWwtNi42IDIuNEwxMiAyMGwtMi40LTYuNkwzIDExbDYuNi0yLjR6Ii8%2BPC9zdmc%2B" alt="OpenAI"/>
   <img src="https://img.shields.io/badge/Claude-0d1117?style=for-the-badge&logo=claude&logoColor=f9f002" alt="Claude"/>
   <img src="https://img.shields.io/badge/AI%20Agents-0d1117?style=for-the-badge&logo=robotframework&logoColor=ff2a6d" alt="AI Agents"/>
 </p>
@@ -51,7 +51,6 @@ struct Acurich {
 ## `> stats --verbose`
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Acurich&show_icons=true&count_private=true&hide=prs,contribs&hide_rank=true&card_width=320&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff2a6d&icon_color=05d9e8&text_color=c9d1d9" alt="GitHub stats"/>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Acurich&layout=compact&langs_count=6&hide=sage,css,html&size_weight=0.5&count_weight=0.5&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff2a6d&text_color=c9d1d9" alt="Top languages"/>
 </p>
 
